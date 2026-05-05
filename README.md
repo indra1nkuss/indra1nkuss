@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="150" alt="Typing Computer Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Animation">
   
-  <h1>Halo Semua! 👋 Saya Indra</h1>
+  <h1>Halo Semua! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="35" /> Saya Indra</h1>
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Energy+Data+Analyst;💻+Full+Stack+Learner;🐹+Golang+Enthusiast;📱+Flutter+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Energy+Data+Analyst;💻+Full+Stack+Learner;🐹+Golang+Enthusiast;📱+Flutter+Developer" alt="Typing SVG" />
     </a>
   </p>
   
   <p align="center">
-    <img src="https://profile-counter.glitch.me/indra1nkuss/count.svg" alt="Profile Views Counter" />
+    <img src="https://komarev.com/ghpvc/?username=indra1nkuss&color=00F7FF&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
   </p>
 </div>
 
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer typing GIF" />
+<img align="right" width="300" src="https://media.tenor.com/7123dD0TzCgAAAAi/cat-typing.gif" alt="Cat typing GIF" />
 
 - 🔭 Saat ini sedang fokus mendalami pengembangan dengan **Golang & Flutter**
 - 🔋 Memiliki passion dan pengalaman sebagai **Energy Data Analyst**
@@ -33,11 +33,9 @@
 
 ### 🛠️ Tech Stack & Tools
 
-*Menggunakan [Skill Icons](https://skillicons.dev) agar icon terlihat seragam dan dinamis.*
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,flutter,dart,python,figma,mysql,git,github,vscode&theme=tokyonight" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=go,flutter,dart,python,figma,mysql,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 

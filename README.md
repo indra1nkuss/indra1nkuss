@@ -1,29 +1,38 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding Animation">
-  
-  <h1>Halo Semua! 👋 Saya Indra</h1>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="Coding Animation">
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Energy+Data+Analyst;Full+Stack+Learner;Golang+Enthusiast;Flutter+Developer" alt="Typing SVG" />
+  <h1>Halo Semua! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" alt="Waving Hand"/> Saya Indra</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Energy+Data+Analyst;💻+Full+Stack+Learner;🐹+Golang+Enthusiast;📱+Flutter+Developer" alt="Typing SVG" />
+  </a>
+  <br><br>
   
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=indra1nkuss&color=00F7FF&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=indra1nkuss&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
+
+<br>
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Programmer typing GIF" />
-
-- 🔭 Saat ini sedang fokus mendalami pengembangan dengan **Golang & Flutter**
-- 🔋 Memiliki passion dan pengalaman sebagai **Energy Data Analyst**
-- 🎨 Sangat tertarik dengan dunia **UI/UX Design** dan cara membuat aplikasi yang *user-friendly*
-- 🌱 Selalu bersemangat mempelajari teknologi baru (*Full Stack Learner!*)
-- 💬 Tanya saya tentang: **Go, Flutter, atau Analisis Data**
-- ⚡ Fakta unik: *Suka menggabungkan logika data yang rumit dengan desain antarmuka yang memanjakan mata.*
-
-<br><br>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🔭 Saat ini sedang fokus mendalami pengembangan dengan <b>Golang & Flutter</b></li>
+        <li>🔋 Memiliki passion dan pengalaman sebagai <b>Energy Data Analyst</b></li>
+        <li>🎨 Sangat tertarik dengan dunia <b>UI/UX Design</b> dan membuat aplikasi yang <i>user-friendly</i></li>
+        <li>🌱 Selalu bersemangat mempelajari teknologi baru (<b>Full Stack Learner!</b>)</li>
+        <li>💬 Tanya saya tentang: <b>Go, Flutter, atau Analisis Data</b></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Coding Person" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,12 +49,11 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indra1nkuss&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indra1nkuss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=indra1nkuss&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra1nkuss&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra1nkuss&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -58,5 +66,8 @@
   </a>
   <a href="https://linkedin.com/in/username_linkedin_kamu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/username_instagram_kamu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>

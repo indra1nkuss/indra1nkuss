@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Indra</h1>
 
-<!--
-**indra1nkuss/indra1nkuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Energy+Data+Analyst;Full+Stack+Learner;Golang+Enthusiast;Flutter+Developer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔋 Energy Data Analyst
+- 💻 Learning Golang & Flutter
+- 🎨 UI/UX Enthusiast
+
+---
+
+### ⚡ Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=indra1nkuss&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indra1nkuss&layout=compact)
+
+---
+
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=indra1nkuss&theme=tokyonight)

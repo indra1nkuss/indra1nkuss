@@ -4,7 +4,7 @@
   <h1>Halo Semua! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" alt="Waving Hand"/> Saya Indra</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Energy+Data+Analyst;💻+Full+Stack+Learner;🐹+Golang+Enthusiast;📱+Flutter+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Energy+Data+Analyst;%F0%9F%92%BB+Full+Stack+Learner;%F0%9F%90%B9+Golang+Enthusiast;%F0%9F%93%B1+Flutter+Developer" alt="Typing SVG" />
   </a>
   <br><br>
   
@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Coding Person" />
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="Person Typing at Computer" />
     </td>
   </tr>
 </table>
@@ -49,11 +49,12 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indra1nkuss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=indra1nkuss&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indra1nkuss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=indra1nkuss&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra1nkuss&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra1nkuss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
 </p>
 
 ---
